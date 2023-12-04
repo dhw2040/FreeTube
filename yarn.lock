@@ -5571,10 +5571,10 @@ make-dir@^3.0.2, make-dir@^3.1.0:
   dependencies:
     semver "^6.0.0"
 
-marked@^4.0.17:
-  version "4.0.17"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.17.tgz#1186193d85bb7882159cdcfc57d1dfccaffb3fe9"
-  integrity sha512-Wfk0ATOK5iPxM4ptrORkFemqroz0ZDxp5MWfYA7H/F+wO17NRWV5Ypxi6p3g2Xmw2bKeiYOl6oVnLHKxBA0VhA==
+marked@^11.0.0:
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-11.0.0.tgz#02e63c4352a59a268e2e5b3afb7a46851c0b446d"
+  integrity sha512-2GsW34uXaFEGTQ/+3rCnNC6vUYTAgFuDLGl70v/aWinA5mIJtTrrFAmfbLOfVvgPyxXuDVL9He/7reCK+6j3Sw==
 
 matcher@^3.0.0:
   version "3.0.0"
